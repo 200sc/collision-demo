@@ -3,7 +3,7 @@ package main
 import (
 	"image/color"
 
-	"bitbucket.org/oakmoundstudio/oak"
+	"github.com/oakmound/oak"
 	"github.com/oakmound/oak/collision"
 	"github.com/oakmound/oak/entities"
 	"github.com/oakmound/oak/event"
